@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=Sanchi7412&style=for-the-badge" />
 
 ## 今日も一日...⌨
