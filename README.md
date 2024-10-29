@@ -2,6 +2,12 @@
   <img src="https://komarev.com/ghpvc/?username=Sanchi7412&style=for-the-badge" />
 </div>
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhrcjRpbXliY3R0MDRpamZ5cGJoYXE2a3RjeHJvM2oyNng5a2VqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mTs11L9uuyGiI/giphy.webp" width="56">なんくるないさ！!
+## 今日も一日...
+<div align="center">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pwZTk5MmlqZmVkYzFnMDMyaTY0NXFhdWFqeGw5dWo5aW5heWZrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.webp" width="56">なんくるないさ！!
+</div>
+
+## Who am I
+
 
 
