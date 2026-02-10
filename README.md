@@ -5,7 +5,7 @@
 <div align="center">
 
 ## 今日も一日...⌨
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pwZTk5MmlqZmVkYzFnMDMyaTY0NXFhdWFqeGw5dWo5aW5heWZrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.webp" width="400" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt2Y3N5YzRnNGxicDB0c3kwdjhvZHNxYWZwNXlrMTlsN3gwcWZmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/giphy.gif" width="400" />
 
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRiZzd6eGFhdTBhdTNtYnBqd2h1OXNjY21yNjh1MGp2azhtM25lYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mYXkkesVtPYzkaupKz/giphy.webp" width="50">Who am I
